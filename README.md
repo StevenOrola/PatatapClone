@@ -2,7 +2,7 @@
 
 A clone of Patatap using two JavaScript libraries, Paper.js and Howler.js
 
-![mapPicture](https://i.imgur.com/HPmRf6L.png)
+![mapPicture]()
 
 ## How to Run
 
